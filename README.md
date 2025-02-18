@@ -9,12 +9,11 @@ Welcome to my GitHub profile! I'm a 3rd-year **Information Science Engineering**
 - ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) 
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) React
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) Node.js
-- ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) Express
-- ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) Flask
-- ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) Tailwind CSS
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) Docker
+- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
+- ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) 
+- ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
+- ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
 
 ## 🚀 Projects:
 
@@ -30,6 +29,6 @@ The **Load Balancer** project is designed to distribute incoming network traffic
 
 ## 📫 How to Reach Me:
 - Email: [anjaliheda11@gmail.com](mailto:anjali.email@example.com)
-- LinkedIn: [Anjali Heda](https://www.linkedin.com/in/anjali-heda/)
+- LinkedIn: [Anjali Heda](https://www.linkedin.com/authwall?trk=bf&trkInfo=AQGdqpsaafpg9wAAAZUX2_kYwue9Gi6s837Oenyl4shc23FIjDO2SLHWHIcDvcQEI5Xuft5Qfc8a925ESnGMfInZR4b-SC9HQOeGOi4VYjmSmFjHa5AXmQ4WhOJbS2AyB5FEDX4=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fanjali-heda-0a0887279%3Futm_source%3Dshare%26utm_campaign%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dios_app)
 
 Thanks for visiting my profile! Let’s connect and collaborate on exciting tech projects! 🚀
