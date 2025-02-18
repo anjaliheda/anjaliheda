@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a 3rd-year **Information Science Engineering**
 ### [Research Paper Repository](https://github.com/anjaliheda/Research-Paper-Repository)
 The **Research Paper Repository** is a centralized platform where users can store and view published research papers in the field of computer science. The system supports user authentication with role-based access control for professors, students, and external users. It helps manage and share research papers with features like paper upload, search, and view options, making academic sharing seamless and organized.
 
-### [Load Balancer- ongoing]
+### Load Balancer- ongoing
 The **Load Balancer** project is designed to distribute incoming network traffic across multiple servers, ensuring no single server gets overwhelmed. This project simulates the behavior of a load balancer that optimally redirects traffic to the least busy servers, increasing the efficiency and reliability of web applications. The implementation includes various algorithms like round-robin and least-connections to test the scalability and performance of different load-balancing strategies.
 
 
