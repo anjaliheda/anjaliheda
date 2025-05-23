@@ -18,6 +18,10 @@ Welcome to my GitHub profile! I'm a 3rd-year **Information Science Engineering**
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Typescript]
+![MongoDB]
+![Make.com]
+![Cloudinary]]
 
 ## 🚀 Projects:
 
